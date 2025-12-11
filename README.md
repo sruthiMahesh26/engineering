@@ -1,5 +1,5 @@
 # Activity
-My 1st project
+# My 1st project
 Lost and found pet finder 
-It helps the pet lovers to find their loved pets easily 
-in sads
+It helps the pet lovers to find their pets easily 
+
